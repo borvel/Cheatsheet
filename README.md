@@ -1,4 +1,4 @@
-# Project Name
+# Cheatsheet
 
 > Very simple cheatsheet website for tables.
 
